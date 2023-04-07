@@ -4,7 +4,7 @@
 ### `View Project here`
 
 Runs the app in your computer.<br />
-Open [https://snake-game-ebon.vercel.app/](https://snake-game-ebon.vercel.app/) to view it in the browser.
+Open [https://snake-game-bd16icwe5-chanakyasarma.vercel.app/](https://snake-game-bd16icwe5-chanakyasarma.vercel.app/) to view it in the browser.
 
 
  ### `Project Description`
